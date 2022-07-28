@@ -2,5 +2,6 @@ soyJuan Alvaro Crespo Espinoza soy una  historia
 Tengo 21 años y me gusta la programacion
 ahora aprendo git hub
 Master 1
+Master 2
 shucuy es una persona que contribuye  en este open source y nacio en huanuco
 
