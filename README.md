@@ -7,5 +7,6 @@ En este curso vemos de todo:
 - El Flujo De Trabajo De Git Hub
 - El Verdadero Amor Por Las Buenas Practicas
 - Trucos Muy  Locosdel Profesor
-- Las Multiples Personalidades De Freddyç
+- Las Multiples Personalidades De Freddy
+- Creado por el increible Platzi team
 Y como un amable recxordatorio  : **este  Readme.md es un chiste**.diseñado para el ejemplo .si llegas aca NO TE LO TOMES EN SERIO y mejor ve a ver el curso.
